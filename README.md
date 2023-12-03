@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 #### I'm a Front-end Developer working remotely (React | NextJs | Angular).
+
+#### Visit [my website](https://fakurian.vercel.app/)
+ 
 <!--
 **f-fardin-dev/f-fardin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
